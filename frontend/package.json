@@ -1,0 +1,9 @@
+{
+  "name": "finguard-ai-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build", "lint": "eslint ." },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "typescript": "~5.7.2", "react": "latest", "react-dom": "latest", "lucide-react": "^0.468.0" },
+  "devDependencies": { "@types/node": "latest", "@types/react": "latest", "@types/react-dom": "latest" }
+}
